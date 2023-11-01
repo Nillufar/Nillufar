@@ -1,1 +1,2 @@
-Hello, Everyone
+# Hello, Everyone
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nillufar&show_icons=true&theme=radical)
